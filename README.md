@@ -4,7 +4,7 @@
 
 同时我也是一位游戏玩家🎮与书影音👩🏻‍🎤爱好者，偶尔活跃在[豆瓣社区](https://www.douban.com/people/121516026/)。
 
-Hi, I am  Yi Zhou, Welcome to my blog🌖! I currently live in Shanghai, China and work as a Software Developer.
+Hi, I am  Yi Zhou, Welcome🌖! I currently live in Shanghai, China and work as a Software Developer.
 
 Sometimes I wrote blogs, here to check them out: **[LWDW!](https://b-sirius.github.io/)**.
 
