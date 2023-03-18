@@ -12,6 +12,11 @@ Sometimes I wrote blogs, here to check them out: **[LWDW!](https://b-sirius.gith
 
 Meanwhile, I am a video game fan 🎮 and loves books, movies, music 👩🏻‍🎤. You can find me in [Douban](https://www.douban.com/people/121516026/).
 
+## 🕵️ Recent Blogs
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## 🎮 Try The Most Modern Cloud Gaming!
 
 > copy from [Giingu](https://github.com/Giingu/Giingu/blob/main/README.md)
