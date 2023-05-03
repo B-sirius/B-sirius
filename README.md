@@ -15,11 +15,11 @@ Meanwhile, I am a video game fan 🎮 and loves books, movies, music 👩🏻‍
 ## 🕵️ Recent Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [【译】Parse, not validate / 为什么我们需要强类型语言？](https://b-sirius.github.io/posts/parse-not-validate)
 - [Getx practice - controllers and bindings](https://b-sirius.github.io/posts/getx-controllers-bindings)
 - [Sign in with apple by Flutter in iOS](https://b-sirius.github.io/posts/apple-login-with-flutter-in-ios)
 - [使用Github Actions与CloudFlare Pages优化博客上线流程](https://b-sirius.github.io/posts/use-github-actions-and-cloudflare-pages-improve-blog-online-process)
 - [PDF生成方案比较](https://b-sirius.github.io/posts/pdf-generation)
-- [关于前端工程师进阶的一点猜想，不一定对](https://b-sirius.github.io/posts/thoughts-about-software-engineer-and-front-end-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎮 Try The Most Modern Cloud Gaming!
