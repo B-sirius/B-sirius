@@ -15,7 +15,7 @@ Meanwhile, I am a video game fan 🎮 and loves books, movies, music 👩🏻‍
 ## 🕵️ Recent Blogs
 
 <!-- BLOG-POST-LIST:START -->
-- [RxJS - 拯救脆弱异步代码，成为时间掌控者！](https://b-sirius.github.io/posts/rxjs-async-master)
+- [图解RxJS - 最适合中国宝宝的入门指导](https://b-sirius.github.io/posts/rxjs-async-master)
 - [【译】so, why server components / server components有啥好？](https://b-sirius.github.io/posts/so-why-server-components)
 - [【译】The Perils of Hydration / 你所不了解的Hydration](https://b-sirius.github.io/posts/the-perils-of-hydration)
 - [【译】Parse, not validate / 为什么我们需要强类型语言？](https://b-sirius.github.io/posts/parse-not-validate)
