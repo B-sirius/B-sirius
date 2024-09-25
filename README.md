@@ -15,9 +15,9 @@ Meanwhile, I am a video game fan 🎮 and loves books, movies, music 👩🏻‍
 ## 🕵️ Recent Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [机器学习梗图串讲](https://b-sirius.github.io/posts/understanding-machine-learning-through-memes)
 - [从Dev到DevOps，借助Docker在Azure上部署你的第一个全栈应用](https://b-sirius.github.io/posts/deploy-fullstack-application-with-docker-on-azure)
 - [图解Nestjs - 适合中国宝宝的入门指导](https://b-sirius.github.io/posts/learn-nestjs-with-diagram)
 - [WebView的世界](https://b-sirius.github.io/posts/about-web-view)
 - [图解RxJS - 最适合中国宝宝的入门指导](https://b-sirius.github.io/posts/rxjs-async-master)
-- [【译】so, why server components / server components有啥好？](https://b-sirius.github.io/posts/so-why-server-components)
 <!-- BLOG-POST-LIST:END -->
